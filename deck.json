@@ -1,0 +1,18 @@
+{
+  "v": 4,
+  "createdOnFiles": { "v": 1, "at": "2026-11-10T10:46:38Z" },
+  "lists": "css",
+  "title": "Payment Guard pitch",
+  "cover": "cover",
+  "order": ["cover", "problem", "demo", "pathway", "ask", "challenge", "channels", "trust"],
+  "sections": {
+    "s1": { "description": "The 3-minute pitch: the problem, the live demo, the pathway we built, and our ask.", "start": "cover" },
+    "s2": { "description": "Backup slides for the 2 minutes of questions: the challenge's root causes, the channels, and why it can be trusted.", "start": "challenge" }
+  },
+  "faces": {
+    "space-grotesk": { "family": "Space Grotesk", "href": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap" },
+    "ibm-plex-sans": { "family": "IBM Plex Sans", "href": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap" },
+    "ibm-plex-sans-arabic": { "family": "IBM Plex Sans Arabic", "href": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;600&display=swap" }
+  },
+  "designSystems": []
+}
